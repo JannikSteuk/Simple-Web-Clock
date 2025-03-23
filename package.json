@@ -1,0 +1,26 @@
+{
+  "name": "simple-web-clock",
+  "version": "1.0.0",
+  "description": "Simple Web Clock with dayjs",
+  "homepage": "https://github.com/JannikSteuk/Simple-Web-Clock#readme",
+  "bugs": {
+    "url": "https://github.com/JannikSteuk/Simple-Web-Clock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JannikSteuk/Simple-Web-Clock.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "micromodal": "^0.6.1",
+    "vite": "^6.2.2"
+  }
+}
